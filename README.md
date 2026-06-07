@@ -55,24 +55,4 @@ src/
 ```
 # portfolio
 
-## Embedding your photo in this README
-
-Place your image file inside the project's `public/` folder (for example `public/firstPage.png`). Then reference it in Markdown like this:
-
-```markdown
-![Aishwarya Lokhande](/firstPage.png)
-```
-
-This will render the image on GitHub and when running the app locally. If you need to control size or add attributes, use HTML:
-
-```html
-<img src="/firstPage.png" alt="Aishwarya Portfolio" width="300" />
-```
-
-If you want to reference the image using the raw GitHub URL (useful in external places), use:
-
-```
-https://raw.githubusercontent.com/<owner>/<repo>/main/public/aishwaryaL.png
-```
-
-Replace `<owner>` and `<repo>` with your GitHub username and repository name.
+![Portfolio screenshot](/firstPage.png)
