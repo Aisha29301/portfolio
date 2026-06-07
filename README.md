@@ -53,6 +53,3 @@ src/
     ├── Contact.tsx
     └── Footer.tsx
 ```
-# portfolio
-
-![Portfolio screenshot](/firstPage.png)
