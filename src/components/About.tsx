@@ -39,8 +39,8 @@ export default function About() {
                className="f-sans text-sm text-gold hover:underline">LinkedIn →</a>
             <a href="mailto:aishwaryaplokhande@gmail.com"
                className="f-sans text-sm text-mid hover:text-hi transition-colors">Email →</a>
-            <a href="https://drive.google.com/file/d/1Q50P85v1QSnjkPbh5weJhZO7QA8Jy3m6/view"
-               className="f-sans text-sm text-mid hover:text-hi transition-colors">Resume →</a>
+            {/* <a href="https://drive.google.com/file/d/1Q50P85v1QSnjkPbh5weJhZO7QA8Jy3m6/view"
+               className="f-sans text-sm text-mid hover:text-hi transition-colors">Resume →</a> */}
           </div>
         </div>
 
