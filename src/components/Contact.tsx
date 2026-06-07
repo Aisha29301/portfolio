@@ -26,8 +26,7 @@ export default function Contact() {
               <div className="space-y-4">
                 {[
                   { lbl:"Email",    val:"aishwaryaplokhande@gmail.com", href:"mailto:aishwaryaplokhande@gmail.com" },
-                  { lbl:"LinkedIn", val:"linkedin.com",        href:"https://www.linkedin.com/in/aishwarya-lokhande-apl293/" },
-                  { lbl:"Phone",    val:"+91 97644 52279",               href:"tel:+919764452279" },
+                  { lbl:"LinkedIn", val:"linkedin.com",        href:"https://www.linkedin.com/in/aishwarya-lokhande-apl293/" }
                 ].map(c => (
                   <a key={c.lbl} href={c.href}
                      target={c.lbl !== "Phone" ? "_blank" : undefined}
